@@ -30,7 +30,7 @@ This project was inspired by the **Site of the Month** from the Awwwards website
 
 ## Live Demo
 
-You can view a live demo of the project [here](#) (replace with the hosted URL).
+You can view a live demo of the project [here](https://thounny.github.io/DAY_001/)
 
 Project Structure
 ```
