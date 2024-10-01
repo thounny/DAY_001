@@ -41,10 +41,9 @@ DAY_001/
 ├── index.html         # Main HTML structure
 
 ```
-*Lenis Smooth Scrolling*
+
 ![Animation Preview 1](./assets/Animation1.gif)  
 ---
-*GSAP Scroll-Triggered Animation*
 ![Animation Preview 2](./assets/Animation2.gif)  
 
 ## Installation
