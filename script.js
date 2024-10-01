@@ -116,9 +116,10 @@ document.addEventListener("DOMContentLoaded", () => {
     },
   });
 
-  // scale img-2
+  // Add spinning effect only to img-2
   gsap.to(".img-2 img", {
     scale: 1.125,
+    rotation: 360, // Spinning effect
     ease: "none",
     scrollTrigger: {
       trigger: stickySection,
@@ -175,6 +176,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       scale: 1.25,
+      rotation: 360, // Continue spinning effect
       ease: "none",
       scrollTrigger: {
         trigger: stickySection,
